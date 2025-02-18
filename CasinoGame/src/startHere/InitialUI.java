@@ -26,7 +26,7 @@ import menu.SignUpUI;
 import menuComponents.SoundEffect;
 
 /**
- * Name: Sanat Kanwal
+ * Name: Cherith Boya
  * Date: 2024-01-19
  * Description: This class is the start up screen for when the user start the program. In this class, the user can click on three buttons
  * 				; sign in, register, or help. Each button will have a designated class it will go to. If the user clicks on the help button
